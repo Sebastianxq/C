@@ -1,2 +1,5 @@
 ## Description
-Basic I/O use in conjunction with timer and button interrupts to understand accessing hardware through software. Compiles and loads into the MSP430 microprocessor. 
+This lab allows the user to play some interesting sound and change LEDs depending on the button they press
+
+## How to Run
+Simply input "Make Lab" into the console and allow the computer to load the MSP with the required information
