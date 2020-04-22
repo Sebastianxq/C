@@ -1,2 +1,2 @@
 # C
-Currently this directory contains solely programming courses that I worked on during my Computer Architecture Course. More information pertaining to each of the labs is present within their respective subdirectories.
+Many of the programs in this directory require the usage of the msp430 microprocessor to function. More information can be found within the relevant subdirectory.
